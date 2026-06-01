@@ -51,9 +51,9 @@
 <div align="center">
   <h3>📬 Connect with me</h3>
   <p>Feel free to reach out — always open to interesting conversations</p>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/Uldanov_Mansur"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:uldanovmansur2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/1510847602923671593"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
