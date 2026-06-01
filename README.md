@@ -7,7 +7,7 @@
   </a>
   <br>
 </div>
-<br><br>
+<br>
 <h1 align="center">Hello. I`m Uldanov Mansur</h1>
 <div align="center">
   <p>
