@@ -2,7 +2,7 @@
   <a href="#">
     <img 
       width="100%" 
-      src="https://raw.githubusercontent.com/AmanityApp/AmanityApp/main/preview-animation.gif"
+      src="https://raw.githubusercontent.com/AmanityApp/AmanityApp/main/assets/gifs/preview-animation.gif"
     />
   </a>
   <br>
@@ -20,7 +20,7 @@
   </p>
 </div>
 <br>
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/AmanityApp/AmanityApp/main/Development-pana.svg">
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/AmanityApp/AmanityApp/main/assets/images/Development-pana.svg">
 
 <h3 align="left">💫 About Me</h3>
 <p align="left">
