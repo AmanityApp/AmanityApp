@@ -48,6 +48,28 @@
 
 <br><br><br><br>
 
+<!-- GitLab Projects -->
+<h3 align="center">🦊 GitLab Projects</h3>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="360">
+      <a href="https://gitlab.com/uldanovmansur2005/scheduler">
+        <img src="https://img.shields.io/badge/scheduler-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+      </a>
+      <br><br>
+      <p>Conscious work-rest mode control system. Doesn't force — informs. User switches modes manually, system tracks the balance honestly.</p>
+      <br>
+      <img src="https://skillicons.dev/icons?i=solidjs,ts,scss,vite,docker,nginx" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br><br><br><br>
+
 <div align="center">
   <h3>📬 Connect with me</h3>
   <p>Feel free to reach out — always open to interesting conversations</p>
